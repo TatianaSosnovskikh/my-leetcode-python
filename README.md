@@ -17,7 +17,7 @@
 │
 └── 🟡 Medium/
     └── 📁 75-Sort-Colors/
-│       ├── ❓ problem.md
+        ├── ❓ problem.md
         ├── 📄 solution.py
         └── 🖼️ screenshot.png
 ```
